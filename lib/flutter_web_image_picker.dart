@@ -1,7 +1,6 @@
 library flutter_web_image_picker;
 
 import 'dart:convert';
-import 'dart:typed_data';
 
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
